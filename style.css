@@ -70,7 +70,6 @@ nav {
     align-items: center;
     gap: 3rem;
     margin-left: -5%;
-    /* position: sticky; */
 }
 
 nav a{
@@ -99,7 +98,6 @@ nav a:hover {
 
 .btn-signing:hover {
     background-color: #9e9d9d;
-    /* background-color: white; */
 }
 
 /* MAIN CONTENT */
