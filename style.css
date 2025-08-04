@@ -339,6 +339,8 @@ span {
 }
 
 .portfolio-container {
+    width: 80%;
+    margin: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
@@ -485,6 +487,7 @@ hr {
     justify-content: center;
     align-items: center;
     padding: 0.8rem;
+    height: 5rem;
     border-radius: 50%;
     font-size: 3rem;
     color: #5300a0;
