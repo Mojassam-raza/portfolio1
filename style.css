@@ -316,8 +316,8 @@ span {
 }
 
 section.about img {
-    width: 40rem;
-    height: 48rem;
+    width: 22rem;
+    height: 40rem;
     border-radius: 50%;
     box-shadow: 0 0 150px rgba(83, 0, 160, 0.5);
 }
